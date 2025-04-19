@@ -1,6 +1,6 @@
 # 안녕하세요! 👋 
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Developer DongHyeon &fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 로보틱스, 자율주행, 웹/앱 개발에 관심이 많은 개발자입니다.
 
