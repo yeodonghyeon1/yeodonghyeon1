@@ -8,11 +8,37 @@
 
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 소개
+## 🙋‍♂️ 소개
 안녕하세요! 저는 자율주행과 로보틱스를 공부하고 있는 학생입니다. 주로 자율주행 시스템 개발, ECU 프로그래밍, 그리고 로봇 제어에 관심이 많습니다. 
 또한 웹/앱 개발과 자동화 도구 제작에도 흥미를 가지고 있습니다.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub 통계
+<div align="center">
+  
+## 🛠 제가 사용하는 기술들
+
+### 💻 프로그래밍 언어
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🚗 로보틱스 & 자율주행
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🌐 웹 개발
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🔧 도구 & 환경
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+## 📊 GitHub 통계
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeodonghyeon1&show_icons=true&theme=radical)
@@ -22,7 +48,7 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> 주요 프로젝트
+## 🏆 주요 프로젝트
 
 ### 🤖 로보틱스 & 자율주행
 - [kupepper_ros](https://github.com/yeodonghyeon1/kupepper_ros) - Pepper 로봇 ROS 통합 시스템
@@ -58,30 +84,15 @@
   - 알고리즘 문제 풀이
   - 새로운 기술 스택 학습
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px"> 기술 스택
-
-<div align="center">
-
-### 💻 주요 기술
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📚 현재 학습 중
+## 📚 현재 학습 중
 - ECU 프로그래밍 및 자동차 시스템 통합
   - CAN 통신 프로토콜
   - 차량 제어 시스템
-- 딥러닝 기반 컴퓨터 비전
-  - YOLO 객체 인식
-  - OCR 시스템 개발
+- 딥러닝 기반 자율주행 시스템
+  - YOLOv8 객체 인식 모델 학습
+  - 강화학습 기반 주행 제어
 
-</div>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25px"> 연락처
+## 📫 연락처
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeodonghyeon1@gmail.com)
