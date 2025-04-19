@@ -1,5 +1,5 @@
 # DongHyeon Yeo &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="center">
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yeodonghyeon1/) 
@@ -9,8 +9,7 @@
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> 소개
-안녕하세요! 저는 자율주행과 로보틱스를 공부하고 있는 학생입니다. 주로 자율주행 시스템 개발, ECU 프로그래밍, 그리고 로봇 제어에 관심이 많습니다. 
-또한 웹/앱 개발과 자동화 도구 제작에도 흥미를 가지고 있습니다.
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub 통계
 <div align="center">
@@ -55,13 +54,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📚 현재 학습 중
-- ECU 프로그래밍 및 자동차 시스템 통합
-  - CAN 통신 프로토콜
-  - 차량 제어 시스템
-- 딥러닝 기반 자율주행 시스템
-  - YOLO 객체 인식
-  - 자율주행 알고리즘
 
 </div>
 
