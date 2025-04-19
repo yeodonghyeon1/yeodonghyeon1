@@ -1,18 +1,9 @@
-# DongHyeon Yeo &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%20Profile&fontSize=70)
 
-<div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yeodonghyeon1/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeodonghyeon1/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeodonghyeon1)
 
-</div>
 
 ## 🙋‍♂️ 소개
-안녕하세요! 저는 자율주행과 로보틱스를 공부하고 있는 학생입니다. 주로 자율주행 시스템 개발, ECU 프로그래밍, 그리고 로봇 제어에 관심이 많습니다. 
-또한 웹/앱 개발과 자동화 도구 제작에도 흥미를 가지고 있습니다.
 
-<div align="center">
   
 ## 🛠 제가 사용하는 기술들
 
@@ -84,22 +75,7 @@
   - 알고리즘 문제 풀이
   - 새로운 기술 스택 학습
 
-## 📚 현재 학습 중
-- ECU 프로그래밍 및 자동차 시스템 통합
-  - CAN 통신 프로토콜
-  - 차량 제어 시스템
-- 딥러닝 기반 자율주행 시스템
-  - YOLOv8 객체 인식 모델 학습
-  - 강화학습 기반 주행 제어
 
-## 📫 연락처
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeodonghyeon1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeodonghyeon1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yeodonghyeon1/)
-
-</div>
 
 ---
 <div align="center">
