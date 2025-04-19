@@ -4,8 +4,6 @@
 
 ## 🙋‍♂️ 소개
 
-  
-## 🛠 제가 사용하는 기술들
 
 ### 💻 프로그래밍 언어
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
