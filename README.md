@@ -27,6 +27,7 @@
 - [ku2024](https://github.com/yeodonghyeon1/ku2024) - 자율운항 대회
   - ROS 기반 자율운항 구현
   - OpenCV 이미지 탐색
+    
 </details>
 
 ### 🚗 UI & ECU
