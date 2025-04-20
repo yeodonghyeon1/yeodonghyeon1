@@ -49,7 +49,9 @@
   - CLOVA OCR로 유통기한 및 바코드 인식
   - Flask 기반 백엔드 서버 구현
   - Android 네이티브 앱 개발
-    
+
+- [USG_AI_Competition](https://github.com/yeodonghyeon1/USG_AI_Competition) - USG 제조혁신 AI 대회
+  - VGG-NET 기반 수도 및 PCB 불량 검출
 </details>
 
 ### 💻 웹 개발
