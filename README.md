@@ -33,7 +33,7 @@
 ### 🚗 UI & ECU
 <details>
   
-- [ecu_blockbox](https://github.com/yeodonghyeon1/ecu_blockbox) - 자동차 ECU 블랙박스 프로젝트
+- [ecu_blockbox](https://github.com/yeodonghyeon1/ecu_blackbox) - 자동차 ECU 블랙박스 프로젝트
   - CAN 통신 기반 차량 데이터 수집
   - 실시간 데이터 로깅 및 분석
   - ECU 상태 모니터링 시스템
