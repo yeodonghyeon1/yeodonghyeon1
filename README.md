@@ -22,6 +22,10 @@
   - NAOqi 드라이버와 MoveIt! 통합으로 로봇 제어
   - 웹 인터페이스 기반 원격 제어 시스템
   - 다중 레이저 스캔 데이터 통합 및 깊이 이미지 변환
+ 
+- [ku2024](https://github.com/yeodonghyeon1/ku2024) - 자율운항 대회
+  - ROS 기반 자율운항 구현
+  - OpenCV 이미지 탐색
 
 ### 🚗 자동차 & ECU
 - [ecu_blockbox](https://github.com/yeodonghyeon1/ecu_blockbox) - 자동차 ECU 블랙박스 프로젝트
@@ -38,16 +42,15 @@
 
 ### 💻 웹 개발
 - [web](https://github.com/yeodonghyeon1/web) - 웹 개발 프로젝트
-  - Apache, JSP, MySQl
+  - Apache 웹 서버
+  - JSP 프론트엔드
+  - MySQl 데이터베이스
+  - 과제 풀이 사이트
 
 ### 📚 학습 & 연구
-- [ku2024](https://github.com/yeodonghyeon1/ku2024) - 2024년 연구 프로젝트
-  - 자율주행 알고리즘 연구
-  - 딥러닝 모델 학습 및 최적화
+    
 - [onmyown](https://github.com/yeodonghyeon1/onmyown) - 자기주도 학습
   - 알고리즘 문제 풀이
- 
-  - 
   - 새로운 기술 스택 학습
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px"> 기술 스택
