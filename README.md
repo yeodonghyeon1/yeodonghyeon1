@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%20Profile&fontSize=70)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Developer&fontAlign=30&fontSize=30&desc=DongHyeon%20Yeo&descAlign=60&descAlignY=50&theme=radical)
 
 
 
