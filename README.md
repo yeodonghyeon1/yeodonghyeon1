@@ -72,9 +72,13 @@
   - 새로운 기술 스택 학습
  
 - Yolo와 OCR을 이용한 식품 유통기한 탐지 애플리케이션 논문 인공지능 학술 대회 [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11554711]
+- Expiration Date Detection Application using Yolo with OCR
 
-- 물체인식 방법을 이용한 PCB 결함 검출 가능성 분석 [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652056]
+- 물체인식 방법을 이용한 PCB 결함 검출 가능성 분석 정보기술 학회 [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652056]
+- Analyzing the possibility of detecting PCB defects using object detection
+- 
 </details>
+
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px"> 기술 스택
 
