@@ -16,7 +16,7 @@
 
 ## 🏆 주요 프로젝트
 
-### 🤖 로보틱스 & 자율주행
+### <details>🤖 로보틱스 & 자율주행
 - [kupepper_ros](https://github.com/yeodonghyeon1/kupepper_ros) - Pepper 로봇 ROS 통합 시스템
   - SLAM 기반 자율 주행 및 네비게이션 구현 (gmapping, AMCL)
   - NAOqi 드라이버와 MoveIt! 통합으로 로봇 제어
@@ -27,27 +27,27 @@
   - ROS 기반 자율운항 구현
   - OpenCV 이미지 탐색
 
-### 🚗 자동차 & ECU
+###<details> 🚗 자동차 & ECU
 - [ecu_blockbox](https://github.com/yeodonghyeon1/ecu_blockbox) - 자동차 ECU 블랙박스 프로젝트
   - CAN 통신 기반 차량 데이터 수집
   - 실시간 데이터 로깅 및 분석
   - ECU 상태 모니터링 시스템
 
-### 👁️ 컴퓨터 비전 & AI
+### <details>👁️ 컴퓨터 비전 & AI
 - [exp_project](https://github.com/yeodonghyeon1/exp_project) - 시각장애인용 식품 인식 앱
   - YOLOv8 기반 객체 탐지 시스템
   - CLOVA OCR로 유통기한 및 바코드 인식
   - Flask 기반 백엔드 서버 구현
   - Android 네이티브 앱 개발
 
-### 💻 웹 개발
+### <details>💻 웹 개발
 - [web](https://github.com/yeodonghyeon1/web) - 웹 개발 프로젝트
   - Apache 웹 서버
   - JSP 프론트엔드
   - MySQl 데이터베이스
   - 과제 풀이 사이트
 
-### 📚 학습 & 연구
+### <details> 📚 학습 & 연구
     
 - [onmyown](https://github.com/yeodonghyeon1/onmyown) - 자기주도 학습
   - 알고리즘 문제 풀이
