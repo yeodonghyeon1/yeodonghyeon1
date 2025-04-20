@@ -81,6 +81,9 @@
 
 - 해상환경을 고려한 선박 장비 모니터링과 자율운항 시뮬레이션 시스템(2저자) [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825635]
   An Autonomous Simulation System for Ship Equipment in the Marine Environment
+
+- EASE를 이용한 반려동물 동반 관광지 최적 루트 추천시스템(2저자) [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11949248]
+  The Best Companion Animal Tourism Destination Route Recommendation System using EASE
   
 </details>
 
