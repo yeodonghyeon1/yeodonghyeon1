@@ -1,104 +1,84 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Developer&fontAlign=30&fontSize=30&desc=DongHyeon%20Yeo&descAlign=60&descAlignY=50&theme=radical)
+# 여동현 (Donghyeon Yeo) 👨‍💻
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeodonghyeon1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## 🎓 About Me
+> "혁신적인 솔루션을 만드는 개발자"
 
-## 🙋‍♂️ 소개
+로보틱스, 자율주행, 컴퓨터 비전에 관심이 많은 개발자입니다.
+새로운 기술을 배우고 적용하는 것을 즐기며, 문제 해결에 열정을 가지고 있습니다.
 
-## 📊 GitHub 통계
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeodonghyeon1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeodonghyeon1&layout=compact&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yeodonghyeon1&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+## 🛠 Tech Stack
 
-</div>
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### Frameworks & Libraries
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeodonghyeon1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeodonghyeon1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ## 🏆 주요 프로젝트
 
-###  🤖 로보틱스 & 자율주행
-<details>
+### 🤖 로보틱스 & 자율주행
+- [**kupepper_ros**](https://github.com/yeodonghyeon1/kupepper_ros) - Pepper 로봇 ROS 통합 시스템
+  - SLAM 기반 자율 주행 구현 (gmapping, AMCL, DWA)
+  - NAOqi-ROS 브릿지 개발
+  - 웹 기반 원격 제어 인터페이스
   
-  - [kupepper_ros](https://github.com/yeodonghyeon1/kupepper_ros) - Pepper 로봇 ROS 통합 시스템
-    - SLAM 기반 자율 주행 및 네비게이션 구현 (gmapping, AMCL, DWA)
-    - NAOqi 드라이버와 ROS 통합으로 로봇 제어
-    - 웹 인터페이스 기반 원격 제어 시스템
-    - 다중 레이저 스캔 데이터 통합 및 깊이 이미지 변환
-
-  - [ku2024](https://github.com/yeodonghyeon1/ku2024) - 자율운항 대회
-    - ROS 기반 자율운항 구현
-    - OpenCV 이미지 탐색
-    
-</details>
-
-### 🚗 UI & ECU
-<details>
-  
-- [ecu_blockbox](https://github.com/yeodonghyeon1/ecu_blackbox) - 자동차 ECU 블랙박스 프로젝트
-  - CAN 통신 기반 차량 데이터 수집
-  - 실시간 데이터 로깅 및 분석
-  - ECU 상태 모니터링 시스템
-    
-</details>
+- [**ku2024**](https://github.com/yeodonghyeon1/ku2024) - 자율운항 프로젝트
+  - ROS 기반 자율운항 시스템 개발
+  - 컴퓨터 비전 기반 장애물 탐지
 
 ### 👁️ 컴퓨터 비전 & AI
-<details>
+- [**exp_project**](https://github.com/yeodonghyeon1/exp_project) - 시각장애인용 식품 인식 앱
+  - YOLOv8 객체 탐지
+  - CLOVA OCR 텍스트 인식
+  - Android 네이티브 앱
   
-- [exp_project](https://github.com/yeodonghyeon1/exp_project) - 시각장애인용 식품 인식 앱
-  - YOLOv8 기반 객체 탐지 시스템
-  - CLOVA OCR로 유통기한 및 바코드 인식
-  - Flask 기반 백엔드 서버 구현
-  - Android 네이티브 앱 개발
+- [**USG_AI_Competition**](https://github.com/yeodonghyeon1/USG_AI_Competition) - 제조혁신 AI 경진대회
+  - VGG-NET 기반 불량 검출
+  - 실시간 이미지 처리
 
-- [USG_AI_Competition](https://github.com/yeodonghyeon1/USG_AI_Competition) - USG 제조혁신 AI 대회
-  - VGG-NET 기반 수도 및 PCB 불량 검출
-</details>
-
-### 💻 웹 개발
-<details>
+### 💻 웹 & 서버
+- [**web**](https://github.com/yeodonghyeon1/web) - JSP/MySQL 기반 웹 프로젝트
+  - 사용자 인증 시스템
+  - 게시판 CRUD 기능
   
-- [web](https://github.com/yeodonghyeon1/web) - 웹 개발 프로젝트
-  - Apache 웹 서버
-  - JSP 프론트엔드
-  - MySQl 데이터베이스
-  - 과제 풀이 사이트
-  
-</details>
+- [**friendapp_client**](https://github.com/yeodonghyeon1/friendapp_client) & [**friendserver**](https://github.com/yeodonghyeon1/friendserver)
+  - 실시간 채팅 애플리케이션
+  - 위치 기반 서비스
+  - C# 소켓 프로그래밍
 
-### 📚 학습 & 연구
-<details>    
-  
-- [onmyown](https://github.com/yeodonghyeon1/onmyown) - 자기주도 학습
-  - 알고리즘 문제 풀이
-  - 새로운 기술 스택 학습
- 
-- Yolo와 OCR을 이용한 식품 유통기한 탐지 애플리케이션 논문 인공지능 학술 대회 [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11554711]
-  Expiration Date Detection Application using Yolo with OCR
+## 📚 연구 실적
 
-- 물체인식 방법을 이용한 PCB 결함 검출 가능성 분석 정보기술 학회 [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652056]
-  Analyzing the possibility of detecting PCB defects using object detection
-  
-</details>
+### 논문
+1. [Yolo와 OCR을 이용한 식품 유통기한 탐지 애플리케이션](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11554711)
+   - 인공지능 학술 대회 (2023)
+   
+2. [물체인식 방법을 이용한 PCB 결함 검출 가능성 분석](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652056)
+   - 정보기술 학회 (2023)
 
-
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px"> 기술 스택
-
-<div align="center">
-  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-</div>
+## 📫 Contact
+- 이메일: [메일 주소]
+- 블로그: [블로그 주소]
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yeodonghyeon1&color=blueviolet&style=for-the-badge">
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeodonghyeon1)](https://solved.ac/yeodonghyeon1)
