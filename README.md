@@ -78,6 +78,9 @@
 
 - 물체인식 방법을 이용한 PCB 결함 검출 가능성 분석 정보기술 학회 [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11652056]
   Analyzing the possibility of detecting PCB defects using object detection
+
+- 해상환경을 고려한 선박 장비 모니터링과 자율운항 시뮬레이션 시스템 [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11825635]
+  An Autonomous Simulation System for Ship Equipment in the Marine Environment
   
 </details>
 
