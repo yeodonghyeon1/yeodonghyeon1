@@ -28,8 +28,8 @@
   - ROS 기반 자율운항 구현
   - OpenCV 이미지 탐색
 </details>
-### 🚗 UI & ECU
 
+### 🚗 UI & ECU
 <details>
   
 - [ecu_blockbox](https://github.com/yeodonghyeon1/ecu_blockbox) - 자동차 ECU 블랙박스 프로젝트
@@ -52,18 +52,22 @@
 
 ### 💻 웹 개발
 <details>
+  
 - [web](https://github.com/yeodonghyeon1/web) - 웹 개발 프로젝트
   - Apache 웹 서버
   - JSP 프론트엔드
   - MySQl 데이터베이스
   - 과제 풀이 사이트
+  
 </details>
 
 ### 📚 학습 & 연구
 <details>    
+  
 - [onmyown](https://github.com/yeodonghyeon1/onmyown) - 자기주도 학습
   - 알고리즘 문제 풀이
   - 새로운 기술 스택 학습
+    
 </details>
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px"> 기술 스택
