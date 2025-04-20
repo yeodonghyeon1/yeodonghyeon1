@@ -38,9 +38,7 @@
 
 ### 💻 웹 개발
 - [web](https://github.com/yeodonghyeon1/web) - 웹 개발 프로젝트
-  - React 기반 프론트엔드
-  - Node.js 백엔드 서버
-  - RESTful API 구현
+  - Apache, JSP, MySQl
 
 ### 📚 학습 & 연구
 - [ku2024](https://github.com/yeodonghyeon1/ku2024) - 2024년 연구 프로젝트
