@@ -20,7 +20,7 @@
   
   - [kupepper_ros](https://github.com/yeodonghyeon1/kupepper_ros) - Pepper 로봇 ROS 통합 시스템
     - SLAM 기반 자율 주행 및 네비게이션 구현 (gmapping, AMCL, DWA)
-    - NAOqi 드라이버와 MoveIt! 통합으로 로봇 제어
+    - NAOqi 드라이버와 ROS 통합으로 로봇 제어
     - 웹 인터페이스 기반 원격 제어 시스템
     - 다중 레이저 스캔 데이터 통합 및 깊이 이미지 변환
 
